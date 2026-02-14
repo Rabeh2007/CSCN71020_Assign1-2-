@@ -28,6 +28,10 @@ int main(void)
         break;
     }
 
+    printf("Press Enter to exit...");
+    getchar(); 
+    getchar(); 
+
     return 0;
 }
 
